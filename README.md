@@ -1,6 +1,6 @@
 ### Welcome to my github profile 👋
 
-- I'm a 28 years old software developer
+- I'm a 28 yo software developer
 - After studying for three years at the 42 school in Lyon, I am now looking for freelance opportunity
 - I did most of my projects in C language
 - I worked in C# using .NET and .NET Core frameworks
