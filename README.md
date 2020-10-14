@@ -1,16 +1,16 @@
-### Hi there 👋
+### Welcome to my github profile 👋
 
-<!--
-**SuzanneRepellin/SuzanneRepellin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I'm a 28 years old software developer
+- After studying for three years at the 42 school in Lyon, I am now looking for freelance opportunity
+- I did most of my projects in C language
+- I worked in C# using .NET and .NET Core frameworks
+- I am currently using php Symfony for a freelance mission
+- Other than that, I'm proficient in C++, Python and JavaScript
+- I have some experience in Rust and would love an opportunity to practice it more
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to roam my repositories to get to know my work. 
+
+Keep in ming that the C projects were written as I was starting to learn code ! I keep them as they are a good witness of my progression, and show the kind of exercises that are asked from 42 students just a few month after their admission.
+
+Do no hesitate to contact me if you have any question or project you would like to offer me to work on.
